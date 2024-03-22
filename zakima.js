@@ -164,7 +164,7 @@ await HBWABotMz.sendMessage(from, { text : `> *PASALṬHA ZAKIMA LUNGHLU DAWRAH 
 
 2. If you want to see the list of VIA Login, please reply *-2* to this message
 
-3. If you want to view the Recharge token that is currently valid for the event, pleasereply *-3* to this message
+3. If you want to view the Recharge token that is currently valid for the event, please reply *-3* to this message
 
 > *©Zakima Lunghlu Dawr 💎*`,
 contextInfo:{
